@@ -6,6 +6,7 @@
         public Visitor? Visitor { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndTime { get; set; }
+        public string Comment { get; set; }
         public Conference Conference { get; set; }
         public Employee Employee { get; set; }
     }
