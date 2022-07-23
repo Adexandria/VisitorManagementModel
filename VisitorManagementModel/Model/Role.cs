@@ -4,6 +4,12 @@
     {
         Receptionist,
         Administrator,
-        Manager
+        Manager,
+        JuniorProductManager,
+        ProductManager,
+        SeniorProductManager,
+        JuniorSoftwareEngineer,
+        SoftwareEngineer,
+        SeniorSoftwareEngineer
     }
 }
