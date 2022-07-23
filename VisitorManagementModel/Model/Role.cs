@@ -4,6 +4,6 @@
     {
         Receptionist,
         Administrator,
-        Managers
+        Manager
     }
 }
