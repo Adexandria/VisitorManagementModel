@@ -6,7 +6,7 @@ namespace VisitorManagementModel.Model
     {
         public int Id { get; set; }
         public Visitor Visitor { get; set; }
-        public DateTime ArrivalTime { get; set; }
-        public DateTime DepartureTime { get; set; }
+        public DateTime CheckInTime { get; set; }
+        public DateTime CheckOutTime { get; set; }
     }
 }
